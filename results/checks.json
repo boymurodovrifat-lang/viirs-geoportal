@@ -1,0 +1,10 @@
+{
+  "upstream_hashes_verified": 42,
+  "national_cells": 2727284,
+  "daily_rows": 140352,
+  "valid_cell_days": 94570,
+  "max_mean_reconstruction_error": 1.47875852674062e-08,
+  "count_disagreements": 0,
+  "bootstrap_replicates": 1999,
+  "status": "passed"
+}
