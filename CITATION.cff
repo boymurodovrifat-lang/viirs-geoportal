@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite the archived release of this software."
+title: "VIIRS Geoportal: Uzbekistan nighttime-light monitoring and reproducibility code"
+type: software
+authors:
+  - family-names: "Boymurodov"
+    given-names: "Rifat"
+version: "1.0.0"
+date-released: "2026-10-30"
+url: "https://github.com/boymurodovrifat-lang/viirs-geoportal"
+license: MIT
