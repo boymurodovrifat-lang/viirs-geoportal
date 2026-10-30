@@ -1,0 +1,28 @@
+{
+  "title": "VIIRS Geoportal: Uzbekistan nighttime-light monitoring and reproducibility code",
+  "upload_type": "software",
+  "description": "Google Earth Engine application source, offline replay script, and frozen derived CSV diagnostics. Interactive gap-filled monitoring is distinguished from frozen QA0 analyses. Independent nighttime field validation has not been completed. See README for external input and asset requirements.",
+  "creators": [
+    {
+      "name": "Boymurodov, Rifat",
+      "affiliation": "Samarkand State University named after Sharof Rashidov"
+    }
+  ],
+  "version": "1.0.0",
+  "publication_date": "2026-10-30",
+  "keywords": [
+    "VIIRS",
+    "Black Marble",
+    "Google Earth Engine",
+    "Uzbekistan",
+    "nighttime lights"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/boymurodovrifat-lang/viirs-geoportal",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "license": "MIT"
+}
